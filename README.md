@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:joaomanfre3@gmailcom">contato@ginte.com.br</a>&ensp;·&ensp;
+  <a href="mailto:joaomanfre3@gmail.com">joaomanfre3@gmail.com</a>&ensp;·&ensp;
   <a href="https://instagram.com/joaomanfre_">@joaomanfre_</a>
 </p>
 
