@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>AI-Augmented Fullstack Developer</strong><br>
-  I ship production software for real clients using AI as my execution engine.
+  Eu entrego software de verdade pra clientes reais usando IA como motor de execução.
 </p>
 
 <p align="center">
@@ -10,31 +10,25 @@
   <a href="https://instagram.com/joaomanfre_">@joaomanfre_</a>
 </p>
 
----
+### Sobre mim
 
-### What I do
+Construo e entrego produtos completos de software: plataformas SaaS, ferramentas internas, apps mobile e desktop. Trabalho com clientes reais que pagam de verdade, usando desenvolvimento com IA pra entregar em dias o que levaria meses.
 
-I build and deliver complete software products — SaaS platforms, internal tools, mobile apps, desktop apps — for real clients who pay real money. I leverage AI-augmented development to ship at 10x the speed of a solo developer while maintaining production-grade quality.
+**13 projetos. 5 em produção. 3 plataformas (web, mobile, desktop).**
 
-**19 years old. 13 projects. 5 in production. 3 platforms (web, mobile, desktop).**
+### Projetos em destaque
 
----
-
-### Featured Projects
-
-| Project | What it is | Stack | Highlights |
-|---------|-----------|-------|------------|
-| [**Ginte Orçamentos**](https://github.com/Ginte-ERP-Company/Ginte-Orcamentos) | Multi-tenant B2B SaaS for quotes & billing | Next.js 16 · Prisma · Supabase · Asaas | ABAC permissions via JSON column, payment webhook idempotency, impersonation system |
-| [**Casa Imperial Hub**](https://github.com/Ginte-ERP-Company/casa-imperial-hub) | Internal reimbursement platform for marketplace sellers | Next.js 16 · Prisma · Neon · Pusher | OAuth 2.0 Mercado Livre multi-account, 3-tier RBAC, realtime updates, image compression pipeline |
-| [**Hub Zinn**](https://github.com/lugomio/hub-zinn) | Team management platform with live TV dashboard | Next.js 16 · Prisma 7 · Better Auth · FullCalendar | Production TV panel with auto-refresh, academy module, task timer, performance ranking |
-| [**Caderno Inteligente**](https://github.com/joaomanfre3/Caderno_Inteligente) | Desktop math notebook for engineering students | Tauri 2 (Rust) · React · SQLite · MathLive | 9 numerical methods, visual equation editor, 100% offline, step-by-step solver |
-| [**Gym Fire**](https://github.com/joaomanfre3/gymfire) | Social fitness mobile app | Expo 54 · React Native · Zustand · Reanimated | Workout tracking, camera drops, AI chat, Google OAuth, EAS builds |
-
----
+| Projeto | O que é | Stack | Destaques |
+|---------|---------|-------|-----------|
+| [**Ginte Orçamentos**](https://github.com/Ginte-ERP-Company/Ginte-Orcamentos) | SaaS B2B multi-tenant de orçamentos e cobranças | Next.js 16 · Prisma · Supabase · Asaas | Permissões ABAC via JSON, webhooks de pagamento, sistema de impersonation |
+| [**Casa Imperial Hub**](https://github.com/Ginte-ERP-Company/casa-imperial-hub) | Plataforma interna de reembolsos pra vendedores em marketplace | Next.js 16 · Prisma · Neon · Pusher | OAuth 2.0 Mercado Livre multi-conta, RBAC 3 níveis, atualizações em tempo real |
+| [**Hub Zinn**](https://github.com/lugomio/hub-zinn) | Plataforma de gestão de equipes com painel TV ao vivo | Next.js 16 · Prisma 7 · Better Auth · FullCalendar | Painel de produção com auto-refresh, módulo academy, timer de tarefas |
+| [**Caderno Inteligente**](https://github.com/joaomanfre3/Caderno_Inteligente) | App desktop de matemática pra estudantes de engenharia | Tauri 2 (Rust) · React · SQLite · MathLive | 9 métodos numéricos, editor visual de equações, 100% offline |
+| [**Gym Fire**](https://github.com/joaomanfre3/gymfire) | App mobile de fitness social | Expo 54 · React Native · Zustand · Reanimated | Treinos, camera drops, chat com IA, Google OAuth |
 
 ### Tech Stack
 
-**Core — used in every project:**
+**Uso em todo projeto:**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -44,34 +38,22 @@ I build and deliver complete software products — SaaS platforms, internal tool
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
 
-**Backend & Integrations:**
+**Backend e integrações:**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?logo=pusher&logoColor=white)
 ![Resend](https://img.shields.io/badge/Resend-000?logoColor=white)
 
-**Mobile & Desktop:**
+**Mobile e Desktop:**
 
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
----
+### Como eu trabalho
 
-### How I work
+Uso IA como acelerador, não como muleta. Toda decisão de arquitetura é minha, todo escopo é meu, todo cliente é meu. A IA entra pra executar num ritmo que seria impossível sozinho. Resultado: software pronto pra produção entregue em dias.
 
-I treat AI as a force multiplier, not a crutch. I make every architectural decision, define every scope, own every client relationship — and use AI-augmented tooling to execute at a pace that would be impossible solo. The result: production-grade software delivered in days, not months.
-
-Every project in my portfolio has real users, real payments, or real business impact.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaomanfre3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomanfre3&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+Todo projeto no meu portfólio tem usuários reais, pagamentos reais ou impacto real de negócio.
