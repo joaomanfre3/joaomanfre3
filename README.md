@@ -48,6 +48,7 @@ Coleção de mini-apps em **Next.js 16 · TypeScript · Tailwind v4 · Framer Mo
 | [Mural](https://github.com/joaomanfre3/mural-social) | Mini rede social pessoal | Perfil, posts e feed com tempo relativo |
 | [Agregador de Notícias](https://github.com/joaomanfre3/agregador-noticias) | Manchetes ao vivo por categoria | Parser de RSS próprio via Server Action |
 | [Player de Playlists](https://github.com/joaomanfre3/playlist-musicas) | Busca músicas e toca prévias de 30s | iTunes Search API via Server Action |
+| [Conversor de Unidades](https://github.com/joaomanfre3/conversor-unidades) | Converte 6 tipos de medida | Equivalências ao vivo, 100% offline |
 
 ### Tech Stack
 
