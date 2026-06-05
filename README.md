@@ -14,7 +14,7 @@
 
 Construo e entrego produtos completos de software: plataformas SaaS, ferramentas internas, apps mobile e desktop. Trabalho com clientes reais que pagam de verdade, usando desenvolvimento com IA pra entregar em dias o que levaria meses.
 
-**13 projetos. 5 em produção. 3 plataformas (web, mobile, desktop).**
+**20+ projetos. 5 em produção. 3 plataformas (web, mobile, desktop).**
 
 ### Projetos em destaque
 
@@ -25,6 +25,27 @@ Construo e entrego produtos completos de software: plataformas SaaS, ferramentas
 | [**Hub Zinn**](https://github.com/lugomio/hub-zinn) | Plataforma de gestão de equipes com painel TV ao vivo | Next.js 16 · Prisma 7 · Better Auth · FullCalendar | Painel de produção com auto-refresh, módulo academy, timer de tarefas |
 | [**Caderno Inteligente**](https://github.com/joaomanfre3/Caderno_Inteligente) | App desktop de matemática pra estudantes de engenharia | Tauri 2 (Rust) · React · SQLite · MathLive | 9 métodos numéricos, editor visual de equações, 100% offline |
 | [**Gym Fire**](https://github.com/joaomanfre3/gymfire) | App mobile de fitness social | Expo 54 · React Native · Zustand · Reanimated | Treinos, camera drops, chat com IA, Google OAuth |
+
+### Apps & ferramentas
+
+Coleção de mini-apps em **Next.js 16 · TypeScript · Tailwind v4 · Framer Motion**, cada um com identidade visual própria, responsivo e pronto pra produção. Vários consomem APIs reais via **Server Actions**, sem chave nem variável de ambiente.
+
+| App | O que faz | Destaque |
+|-----|-----------|----------|
+| [Marcador de Truco](https://github.com/joaomanfre3/marcador-truco) | Placar de truco pra mesa do bar | Som, vibração e mão de onze |
+| [Minha Agenda](https://github.com/joaomanfre3/minha-agenda) | Calendário com eventos por categoria | Lembretes e busca |
+| [Contador de Gastos](https://github.com/joaomanfre3/contador-gastos) | Despesas por categoria | Gráfico de rosca em SVG puro |
+| [Contador de Investimentos](https://github.com/joaomanfre3/contador-investimentos) | Carteira de moedas e cripto | Cotação ao vivo via Server Action |
+| [Lista de Tarefas](https://github.com/joaomanfre3/lista-de-tarefas) | To-do com filtros | Prioridade e barra de progresso |
+| [Blog Pessoal](https://github.com/joaomanfre3/blog-pessoal) | Blog com posts em Markdown | Server Components + SEO por post |
+| [Relógio Mundial](https://github.com/joaomanfre3/world-clock) | Hora de 19 cidades ao vivo | Relógio analógico em SVG, dia/noite |
+| [Gerador de Senhas](https://github.com/joaomanfre3/gerador-de-senhas) | Senhas fortes e seguras | Web Crypto + medidor de entropia |
+| [Previsão do Tempo](https://github.com/joaomanfre3/previsao-tempo) | Clima atual + 7 dias | Server Action + Open-Meteo |
+| [Diário Online](https://github.com/joaomanfre3/diario-online) | Diário pessoal e privado | Humor do dia, 100% no navegador |
+| [Minha Estante](https://github.com/joaomanfre3/minha-estante) | Estante de livros | Busca real via Open Library |
+| [Lista de Compras](https://github.com/joaomanfre3/lista-de-compras) | Lista de mercado por corredor | Quantidade e progresso do carrinho |
+| [Agenda de Contatos](https://github.com/joaomanfre3/agenda-de-contatos) | Contatos com favoritos | Atalhos ligar/WhatsApp/e-mail |
+| [Mural](https://github.com/joaomanfre3/mural-social) | Mini rede social pessoal | Perfil, posts e feed com tempo relativo |
 
 ### Tech Stack
 
