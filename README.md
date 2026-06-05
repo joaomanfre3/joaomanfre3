@@ -47,6 +47,7 @@ Coleção de mini-apps em **Next.js 16 · TypeScript · Tailwind v4 · Framer Mo
 | [Agenda de Contatos](https://github.com/joaomanfre3/agenda-de-contatos) | Contatos com favoritos | Atalhos ligar/WhatsApp/e-mail |
 | [Mural](https://github.com/joaomanfre3/mural-social) | Mini rede social pessoal | Perfil, posts e feed com tempo relativo |
 | [Agregador de Notícias](https://github.com/joaomanfre3/agregador-noticias) | Manchetes ao vivo por categoria | Parser de RSS próprio via Server Action |
+| [Player de Playlists](https://github.com/joaomanfre3/playlist-musicas) | Busca músicas e toca prévias de 30s | iTunes Search API via Server Action |
 
 ### Tech Stack
 
