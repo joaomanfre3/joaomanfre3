@@ -54,6 +54,7 @@ Coleção de mini-apps em **Next.js 16 · TypeScript · Tailwind v4 · Framer Mo
 | [Gerador de QR Code](https://github.com/joaomanfre3/gerador-qrcode) | QR de link, Wi-Fi e WhatsApp | Gerado no navegador, com download PNG |
 | [Galeria de Fotos](https://github.com/joaomanfre3/galeria-fotos) | Galeria com grade e tela cheia | Lightbox, favoritos e busca via Server Action |
 | [Gastos de Energia](https://github.com/joaomanfre3/gastos-energia) | Estima a conta de luz por aparelho | Tarifa ajustável, ranking de consumo |
+| [Rastreador de Hábitos](https://github.com/joaomanfre3/rastreador-habitos) | Hábitos diários com sequência | Mapa de calor estilo contribuições |
 
 ### Tech Stack
 
