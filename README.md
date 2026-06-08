@@ -56,6 +56,7 @@ Coleção de mini-apps em **Next.js 16 · TypeScript · Tailwind v4 · Framer Mo
 | [Gastos de Energia](https://github.com/joaomanfre3/gastos-energia) | Estima a conta de luz por aparelho | Tarifa ajustável, ranking de consumo |
 | [Rastreador de Hábitos](https://github.com/joaomanfre3/rastreador-habitos) | Hábitos diários com sequência | Mapa de calor estilo contribuições |
 | [Gerador de Currículo](https://github.com/joaomanfre3/gerador-curriculo) | Currículo com prévia ao vivo | Exporta em PDF pela impressão |
+| [Quadro Kanban](https://github.com/joaomanfre3/quadro-kanban) | Tarefas em quadro arrastável | Drag-and-drop nativo, sem biblioteca |
 
 ### Tech Stack
 
