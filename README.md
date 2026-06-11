@@ -65,6 +65,7 @@ Coleção de mini-apps em **Next.js 16 · TypeScript · Tailwind v4 · Framer Mo
 | [Divisor de Conta](https://github.com/joaomanfre3/divisor-conta) | Racha a conta por pessoa | Itens por quem consumiu, 10% e resumo |
 | [Gerador de Paleta](https://github.com/joaomanfre3/gerador-paleta) | Paletas de cores pra design | Travar, copiar hex e salvar favoritas |
 | [Jogo da Memória](https://github.com/joaomanfre3/jogo-memoria) | Jogo de encontrar os pares | Cartas em 3D, 3 níveis e recorde |
+| [Conversor de Moedas](https://github.com/joaomanfre3/conversor-moedas) | Conversão com cotação ao vivo | Server Action + AwesomeAPI, taxa do dia |
 
 ### Tech Stack
 
