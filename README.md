@@ -71,6 +71,7 @@ Coleção de mini-apps em **Next.js 16 · TypeScript · Tailwind v4 · Framer Mo
 | [Sorteador / Roleta](https://github.com/joaomanfre3/sorteador) | Roleta de sorteio em SVG | Gira e sorteia um vencedor |
 | [Ferramenta de Texto](https://github.com/joaomanfre3/contador-texto) | Conta e transforma texto | Caracteres, palavras, maiúsc/acentos |
 | [Editor de Markdown](https://github.com/joaomanfre3/editor-markdown) | Editor com prévia ao vivo | Conversor próprio, auto-save, export .md/.html |
+| [Calculadora Científica](https://github.com/joaomanfre3/calculadora-cientifica) | Calculadora com funções científicas | Avaliador próprio sem eval, histórico, teclado |
 
 ### Tech Stack
 
