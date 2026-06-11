@@ -59,6 +59,7 @@ Coleção de mini-apps em **Next.js 16 · TypeScript · Tailwind v4 · Framer Mo
 | [Quadro Kanban](https://github.com/joaomanfre3/quadro-kanban) | Tarefas em quadro arrastável | Drag-and-drop nativo, sem biblioteca |
 | [Cardápio Digital](https://github.com/joaomanfre3/cardapio-digital) | Cardápio com pedido pelo WhatsApp | Template comercial pra restaurantes |
 | [Agendamento Online](https://github.com/joaomanfre3/agendamento-online) | Agendamento pra salão/clínica | 4 passos e confirmação pelo WhatsApp |
+| [Landing de Captura](https://github.com/joaomanfre3/landing-captura) | Landing de conversão com lead | Captura no WhatsApp, animações de scroll |
 
 ### Tech Stack
 
