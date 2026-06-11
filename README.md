@@ -63,6 +63,7 @@ Coleção de mini-apps em **Next.js 16 · TypeScript · Tailwind v4 · Framer Mo
 | [Loja Virtual](https://github.com/joaomanfre3/loja-virtual) | Vitrine de e-commerce | Filtros, carrinho e orçamento pelo WhatsApp |
 | [Timer Pomodoro](https://github.com/joaomanfre3/pomodoro) | Cronômetro de foco com ciclos | Anel de progresso, som e estatística do dia |
 | [Divisor de Conta](https://github.com/joaomanfre3/divisor-conta) | Racha a conta por pessoa | Itens por quem consumiu, 10% e resumo |
+| [Gerador de Paleta](https://github.com/joaomanfre3/gerador-paleta) | Paletas de cores pra design | Travar, copiar hex e salvar favoritas |
 
 ### Tech Stack
 
