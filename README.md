@@ -61,6 +61,7 @@ Coleção de mini-apps em **Next.js 16 · TypeScript · Tailwind v4 · Framer Mo
 | [Agendamento Online](https://github.com/joaomanfre3/agendamento-online) | Agendamento pra salão/clínica | 4 passos e confirmação pelo WhatsApp |
 | [Landing de Captura](https://github.com/joaomanfre3/landing-captura) | Landing de conversão com lead | Captura no WhatsApp, animações de scroll |
 | [Loja Virtual](https://github.com/joaomanfre3/loja-virtual) | Vitrine de e-commerce | Filtros, carrinho e orçamento pelo WhatsApp |
+| [Timer Pomodoro](https://github.com/joaomanfre3/pomodoro) | Cronômetro de foco com ciclos | Anel de progresso, som e estatística do dia |
 
 ### Tech Stack
 
