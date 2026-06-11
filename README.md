@@ -75,6 +75,7 @@ Coleção de mini-apps em **Next.js 16 · TypeScript · Tailwind v4 · Framer Mo
 | [Conversor de Bases](https://github.com/joaomanfre3/conversor-bases) | Bin/octal/dec/hex ao vivo | Bits clicáveis, bit a bit, ASCII, BigInt |
 | [Cartão de Visita Digital](https://github.com/joaomanfre3/cartao-digital) | Link-na-bio premium pra autônomos | Hero animado, CTA WhatsApp, config único |
 | [Gerador de Recibos](https://github.com/joaomanfre3/gerador-recibos) | Recibos prontos pra imprimir | Valor por extenso próprio, numeração, PDF |
+| [Jogo da Cobrinha](https://github.com/joaomanfre3/jogo-cobrinha) | O clássico Snake em canvas | Lógica pura testada, teclado/swipe, 3 níveis |
 
 ### Tech Stack
 
