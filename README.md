@@ -62,6 +62,7 @@ Coleção de mini-apps em **Next.js 16 · TypeScript · Tailwind v4 · Framer Mo
 | [Landing de Captura](https://github.com/joaomanfre3/landing-captura) | Landing de conversão com lead | Captura no WhatsApp, animações de scroll |
 | [Loja Virtual](https://github.com/joaomanfre3/loja-virtual) | Vitrine de e-commerce | Filtros, carrinho e orçamento pelo WhatsApp |
 | [Timer Pomodoro](https://github.com/joaomanfre3/pomodoro) | Cronômetro de foco com ciclos | Anel de progresso, som e estatística do dia |
+| [Divisor de Conta](https://github.com/joaomanfre3/divisor-conta) | Racha a conta por pessoa | Itens por quem consumiu, 10% e resumo |
 
 ### Tech Stack
 
