@@ -70,6 +70,7 @@ Coleção de mini-apps em **Next.js 16 · TypeScript · Tailwind v4 · Framer Mo
 | [Cronômetro](https://github.com/joaomanfre3/cronometro) | Cronômetro com voltas | Split, melhor/pior volta, centésimos |
 | [Sorteador / Roleta](https://github.com/joaomanfre3/sorteador) | Roleta de sorteio em SVG | Gira e sorteia um vencedor |
 | [Ferramenta de Texto](https://github.com/joaomanfre3/contador-texto) | Conta e transforma texto | Caracteres, palavras, maiúsc/acentos |
+| [Editor de Markdown](https://github.com/joaomanfre3/editor-markdown) | Editor com prévia ao vivo | Conversor próprio, auto-save, export .md/.html |
 
 ### Tech Stack
 
