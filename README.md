@@ -79,6 +79,7 @@ Coleção de mini-apps em **Next.js 16 · TypeScript · Tailwind v4 · Framer Mo
 | [Portfólio Criativo](https://github.com/joaomanfre3/portfolio-criativo) | Site portfólio pra fotógrafo | Galeria mosaico, lightbox, filtro, config único |
 | [Validador de CPF e CNPJ](https://github.com/joaomanfre3/validador-documentos) | Valida e formata CPF/CNPJ | Dígitos verificadores próprios, máscara, gerador |
 | [Conversor de Cores](https://github.com/joaomanfre3/conversor-cores) | HEX, RGB e HSL ao vivo | Conversão própria, seletor, sliders, escala de tons |
+| [Convite de Evento](https://github.com/joaomanfre3/convite-evento) | Convite digital pra eventos | Contagem regressiva, RSVP WhatsApp, config único |
 
 ### Tech Stack
 
