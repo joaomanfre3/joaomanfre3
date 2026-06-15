@@ -14,7 +14,7 @@
 
 Construo e entrego produtos completos de software: plataformas SaaS, ferramentas internas, apps mobile e desktop. Trabalho com clientes reais que pagam de verdade, usando desenvolvimento com IA pra entregar em dias o que levaria meses.
 
-**20+ projetos. 5 em produção. 3 plataformas (web, mobile, desktop).**
+**50+ projetos entregues · 5 plataformas em produção · web, mobile e desktop.**
 
 ### Projetos em destaque
 
