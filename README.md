@@ -78,6 +78,7 @@ Coleção de mini-apps em **Next.js 16 · TypeScript · Tailwind v4 · Framer Mo
 | [Jogo da Cobrinha](https://github.com/joaomanfre3/jogo-cobrinha) | O clássico Snake em canvas | Lógica pura testada, teclado/swipe, 3 níveis |
 | [Portfólio Criativo](https://github.com/joaomanfre3/portfolio-criativo) | Site portfólio pra fotógrafo | Galeria mosaico, lightbox, filtro, config único |
 | [Validador de CPF e CNPJ](https://github.com/joaomanfre3/validador-documentos) | Valida e formata CPF/CNPJ | Dígitos verificadores próprios, máscara, gerador |
+| [Conversor de Cores](https://github.com/joaomanfre3/conversor-cores) | HEX, RGB e HSL ao vivo | Conversão própria, seletor, sliders, escala de tons |
 
 ### Tech Stack
 
