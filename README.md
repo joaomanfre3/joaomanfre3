@@ -81,6 +81,7 @@ Construo e entrego produtos completos de software: plataformas SaaS, ferramentas
 | [Conversor de Cores](https://github.com/joaomanfre3/conversor-cores) | HEX, RGB e HSL ao vivo | Conversão própria, seletor, sliders, escala de tons |
 | [Convite de Evento](https://github.com/joaomanfre3/convite-evento) | Convite digital pra eventos | Contagem regressiva, RSVP WhatsApp, config único |
 | [2048](https://github.com/joaomanfre3/jogo-2048) | O clássico jogo 2048 | Lógica slide/merge testada, teclado/swipe, recorde |
+| [Campo Minado](https://github.com/joaomanfre3/campo-minado) | O clássico Campo Minado | Flood-fill testado, 1º clique seguro, 3 níveis, cronômetro |
 
 ### Tech Stack
 
