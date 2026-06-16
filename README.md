@@ -28,7 +28,7 @@ Construo e entrego produtos completos de software: plataformas SaaS, ferramentas
 
 ### Apps & ferramentas
 
-Coleção de mini-apps em **Next.js 16 · TypeScript · Tailwind v4 · Framer Motion**, cada um com identidade visual própria, responsivo e pronto pra produção. Vários consomem APIs reais via **Server Actions**, sem chave nem variável de ambiente.
+**Projetos de estudo** em **Next.js 16 · TypeScript · Tailwind v4 · Framer Motion** — onde pratico a stack e mostro alcance. Cada um tem identidade visual própria, é responsivo e tem lógica feita do zero; vários consomem APIs reais via **Server Actions**, sem chave nem variável de ambiente.
 
 | App | O que faz | Destaque |
 |-----|-----------|----------|
