@@ -80,6 +80,7 @@ Construo e entrego produtos completos de software: plataformas SaaS, ferramentas
 | [Validador de CPF e CNPJ](https://github.com/joaomanfre3/validador-documentos) | Valida e formata CPF/CNPJ | Dígitos verificadores próprios, máscara, gerador |
 | [Conversor de Cores](https://github.com/joaomanfre3/conversor-cores) | HEX, RGB e HSL ao vivo | Conversão própria, seletor, sliders, escala de tons |
 | [Convite de Evento](https://github.com/joaomanfre3/convite-evento) | Convite digital pra eventos | Contagem regressiva, RSVP WhatsApp, config único |
+| [2048](https://github.com/joaomanfre3/jogo-2048) | O clássico jogo 2048 | Lógica slide/merge testada, teclado/swipe, recorde |
 
 ### Tech Stack
 
