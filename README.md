@@ -18,60 +18,9 @@ Construo e entrego produtos completos de software: plataformas SaaS, ferramentas
 
 ### Apps & ferramentas
 
-**Projetos de estudo** em **Next.js 16 · TypeScript · Tailwind v4 · Framer Motion** — onde pratico a stack e mostro alcance. Cada um tem identidade visual própria, é responsivo e tem lógica feita do zero; vários consomem APIs reais via **Server Actions**, sem chave nem variável de ambiente.
+**Projetos de estudo** em **Next.js 16 · TypeScript · Tailwind v4 · Framer Motion** — onde pratico a stack e mostro alcance. Cada um tem identidade visual própria, é responsivo e tem lógica feita do zero; vários consomem APIs reais via **Server Actions**. Os repositórios estão abertos:
 
-| App | O que faz | Destaque |
-|-----|-----------|----------|
-| [Marcador de Truco](https://github.com/joaomanfre3/marcador-truco) | Placar de truco pra mesa do bar | Som, vibração e mão de onze |
-| [Minha Agenda](https://github.com/joaomanfre3/minha-agenda) | Calendário com eventos por categoria | Lembretes e busca |
-| [Contador de Gastos](https://github.com/joaomanfre3/contador-gastos) | Despesas por categoria | Gráfico de rosca em SVG puro |
-| [Contador de Investimentos](https://github.com/joaomanfre3/contador-investimentos) | Carteira de moedas e cripto | Cotação ao vivo via Server Action |
-| [Lista de Tarefas](https://github.com/joaomanfre3/lista-de-tarefas) | To-do com filtros | Prioridade e barra de progresso |
-| [Blog Pessoal](https://github.com/joaomanfre3/blog-pessoal) | Blog com posts em Markdown | Server Components + SEO por post |
-| [Relógio Mundial](https://github.com/joaomanfre3/world-clock) | Hora de 19 cidades ao vivo | Relógio analógico em SVG, dia/noite |
-| [Gerador de Senhas](https://github.com/joaomanfre3/gerador-de-senhas) | Senhas fortes e seguras | Web Crypto + medidor de entropia |
-| [Previsão do Tempo](https://github.com/joaomanfre3/previsao-tempo) | Clima atual + 7 dias | Server Action + Open-Meteo |
-| [Diário Online](https://github.com/joaomanfre3/diario-online) | Diário pessoal e privado | Humor do dia, 100% no navegador |
-| [Minha Estante](https://github.com/joaomanfre3/minha-estante) | Estante de livros | Busca real via Open Library |
-| [Lista de Compras](https://github.com/joaomanfre3/lista-de-compras) | Lista de mercado por corredor | Quantidade e progresso do carrinho |
-| [Agenda de Contatos](https://github.com/joaomanfre3/agenda-de-contatos) | Contatos com favoritos | Atalhos ligar/WhatsApp/e-mail |
-| [Mural](https://github.com/joaomanfre3/mural-social) | Mini rede social pessoal | Perfil, posts e feed com tempo relativo |
-| [Agregador de Notícias](https://github.com/joaomanfre3/agregador-noticias) | Manchetes ao vivo por categoria | Parser de RSS próprio via Server Action |
-| [Player de Playlists](https://github.com/joaomanfre3/playlist-musicas) | Busca músicas e toca prévias de 30s | iTunes Search API via Server Action |
-| [Conversor de Unidades](https://github.com/joaomanfre3/conversor-unidades) | Converte 6 tipos de medida | Equivalências ao vivo, 100% offline |
-| [Quiz de Perguntas](https://github.com/joaomanfre3/quiz-perguntas) | Quiz de múltipla escolha em PT | 6 categorias, feedback na hora e recorde |
-| [Dicionário Online](https://github.com/joaomanfre3/dicionario-online) | Significado de palavras em PT | Parser de XML TEI via Server Action |
-| [Gerador de QR Code](https://github.com/joaomanfre3/gerador-qrcode) | QR de link, Wi-Fi e WhatsApp | Gerado no navegador, com download PNG |
-| [Galeria de Fotos](https://github.com/joaomanfre3/galeria-fotos) | Galeria com grade e tela cheia | Lightbox, favoritos e busca via Server Action |
-| [Gastos de Energia](https://github.com/joaomanfre3/gastos-energia) | Estima a conta de luz por aparelho | Tarifa ajustável, ranking de consumo |
-| [Rastreador de Hábitos](https://github.com/joaomanfre3/rastreador-habitos) | Hábitos diários com sequência | Mapa de calor estilo contribuições |
-| [Gerador de Currículo](https://github.com/joaomanfre3/gerador-curriculo) | Currículo com prévia ao vivo | Exporta em PDF pela impressão |
-| [Quadro Kanban](https://github.com/joaomanfre3/quadro-kanban) | Tarefas em quadro arrastável | Drag-and-drop nativo, sem biblioteca |
-| [Cardápio Digital](https://github.com/joaomanfre3/cardapio-digital) | Cardápio com pedido pelo WhatsApp | Template comercial pra restaurantes |
-| [Agendamento Online](https://github.com/joaomanfre3/agendamento-online) | Agendamento pra salão/clínica | 4 passos e confirmação pelo WhatsApp |
-| [Landing de Captura](https://github.com/joaomanfre3/landing-captura) | Landing de conversão com lead | Captura no WhatsApp, animações de scroll |
-| [Loja Virtual](https://github.com/joaomanfre3/loja-virtual) | Vitrine de e-commerce | Filtros, carrinho e orçamento pelo WhatsApp |
-| [Timer Pomodoro](https://github.com/joaomanfre3/pomodoro) | Cronômetro de foco com ciclos | Anel de progresso, som e estatística do dia |
-| [Divisor de Conta](https://github.com/joaomanfre3/divisor-conta) | Racha a conta por pessoa | Itens por quem consumiu, 10% e resumo |
-| [Gerador de Paleta](https://github.com/joaomanfre3/gerador-paleta) | Paletas de cores pra design | Travar, copiar hex e salvar favoritas |
-| [Jogo da Memória](https://github.com/joaomanfre3/jogo-memoria) | Jogo de encontrar os pares | Cartas em 3D, 3 níveis e recorde |
-| [Conversor de Moedas](https://github.com/joaomanfre3/conversor-moedas) | Conversão com cotação ao vivo | Server Action + AwesomeAPI, taxa do dia |
-| [Contador Regressivo](https://github.com/joaomanfre3/contador-regressivo) | Contagem regressiva pra eventos | Ao vivo, mais próximo em destaque |
-| [Cronômetro](https://github.com/joaomanfre3/cronometro) | Cronômetro com voltas | Split, melhor/pior volta, centésimos |
-| [Sorteador / Roleta](https://github.com/joaomanfre3/sorteador) | Roleta de sorteio em SVG | Gira e sorteia um vencedor |
-| [Ferramenta de Texto](https://github.com/joaomanfre3/contador-texto) | Conta e transforma texto | Caracteres, palavras, maiúsc/acentos |
-| [Editor de Markdown](https://github.com/joaomanfre3/editor-markdown) | Editor com prévia ao vivo | Conversor próprio, auto-save, export .md/.html |
-| [Calculadora Científica](https://github.com/joaomanfre3/calculadora-cientifica) | Calculadora com funções científicas | Avaliador próprio sem eval, histórico, teclado |
-| [Conversor de Bases](https://github.com/joaomanfre3/conversor-bases) | Bin/octal/dec/hex ao vivo | Bits clicáveis, bit a bit, ASCII, BigInt |
-| [Cartão de Visita Digital](https://github.com/joaomanfre3/cartao-digital) | Link-na-bio premium pra autônomos | Hero animado, CTA WhatsApp, config único |
-| [Gerador de Recibos](https://github.com/joaomanfre3/gerador-recibos) | Recibos prontos pra imprimir | Valor por extenso próprio, numeração, PDF |
-| [Jogo da Cobrinha](https://github.com/joaomanfre3/jogo-cobrinha) | O clássico Snake em canvas | Lógica pura testada, teclado/swipe, 3 níveis |
-| [Portfólio Criativo](https://github.com/joaomanfre3/portfolio-criativo) | Site portfólio pra fotógrafo | Galeria mosaico, lightbox, filtro, config único |
-| [Validador de CPF e CNPJ](https://github.com/joaomanfre3/validador-documentos) | Valida e formata CPF/CNPJ | Dígitos verificadores próprios, máscara, gerador |
-| [Conversor de Cores](https://github.com/joaomanfre3/conversor-cores) | HEX, RGB e HSL ao vivo | Conversão própria, seletor, sliders, escala de tons |
-| [Convite de Evento](https://github.com/joaomanfre3/convite-evento) | Convite digital pra eventos | Contagem regressiva, RSVP WhatsApp, config único |
-| [2048](https://github.com/joaomanfre3/jogo-2048) | O clássico jogo 2048 | Lógica slide/merge testada, teclado/swipe, recorde |
-| [Campo Minado](https://github.com/joaomanfre3/campo-minado) | O clássico Campo Minado | Flood-fill testado, 1º clique seguro, 3 níveis, cronômetro |
+[Marcador de Truco](https://github.com/joaomanfre3/marcador-truco) · [Minha Agenda](https://github.com/joaomanfre3/minha-agenda) · [Contador de Gastos](https://github.com/joaomanfre3/contador-gastos) · [Contador de Investimentos](https://github.com/joaomanfre3/contador-investimentos) · [Lista de Tarefas](https://github.com/joaomanfre3/lista-de-tarefas) · [Blog Pessoal](https://github.com/joaomanfre3/blog-pessoal) · [Relógio Mundial](https://github.com/joaomanfre3/world-clock) · [Gerador de Senhas](https://github.com/joaomanfre3/gerador-de-senhas) · [Previsão do Tempo](https://github.com/joaomanfre3/previsao-tempo) · [Diário Online](https://github.com/joaomanfre3/diario-online) · [Minha Estante](https://github.com/joaomanfre3/minha-estante) · [Lista de Compras](https://github.com/joaomanfre3/lista-de-compras) · [Agenda de Contatos](https://github.com/joaomanfre3/agenda-de-contatos) · [Mural](https://github.com/joaomanfre3/mural-social) · [Agregador de Notícias](https://github.com/joaomanfre3/agregador-noticias) · [Player de Playlists](https://github.com/joaomanfre3/playlist-musicas) · [Conversor de Unidades](https://github.com/joaomanfre3/conversor-unidades) · [Quiz de Perguntas](https://github.com/joaomanfre3/quiz-perguntas) · [Dicionário Online](https://github.com/joaomanfre3/dicionario-online) · [Gerador de QR Code](https://github.com/joaomanfre3/gerador-qrcode) · [Galeria de Fotos](https://github.com/joaomanfre3/galeria-fotos) · [Gastos de Energia](https://github.com/joaomanfre3/gastos-energia) · [Rastreador de Hábitos](https://github.com/joaomanfre3/rastreador-habitos) · [Gerador de Currículo](https://github.com/joaomanfre3/gerador-curriculo) · [Quadro Kanban](https://github.com/joaomanfre3/quadro-kanban) · [Cardápio Digital](https://github.com/joaomanfre3/cardapio-digital) · [Agendamento Online](https://github.com/joaomanfre3/agendamento-online) · [Landing de Captura](https://github.com/joaomanfre3/landing-captura) · [Loja Virtual](https://github.com/joaomanfre3/loja-virtual) · [Timer Pomodoro](https://github.com/joaomanfre3/pomodoro) · [Divisor de Conta](https://github.com/joaomanfre3/divisor-conta) · [Gerador de Paleta](https://github.com/joaomanfre3/gerador-paleta) · [Jogo da Memória](https://github.com/joaomanfre3/jogo-memoria) · [Conversor de Moedas](https://github.com/joaomanfre3/conversor-moedas) · [Contador Regressivo](https://github.com/joaomanfre3/contador-regressivo) · [Cronômetro](https://github.com/joaomanfre3/cronometro) · [Sorteador / Roleta](https://github.com/joaomanfre3/sorteador) · [Ferramenta de Texto](https://github.com/joaomanfre3/contador-texto) · [Editor de Markdown](https://github.com/joaomanfre3/editor-markdown) · [Calculadora Científica](https://github.com/joaomanfre3/calculadora-cientifica) · [Conversor de Bases](https://github.com/joaomanfre3/conversor-bases) · [Cartão de Visita Digital](https://github.com/joaomanfre3/cartao-digital) · [Gerador de Recibos](https://github.com/joaomanfre3/gerador-recibos) · [Jogo da Cobrinha](https://github.com/joaomanfre3/jogo-cobrinha) · [Portfólio Criativo](https://github.com/joaomanfre3/portfolio-criativo) · [Validador de CPF e CNPJ](https://github.com/joaomanfre3/validador-documentos) · [Conversor de Cores](https://github.com/joaomanfre3/conversor-cores) · [Convite de Evento](https://github.com/joaomanfre3/convite-evento) · [2048](https://github.com/joaomanfre3/jogo-2048) · [Campo Minado](https://github.com/joaomanfre3/campo-minado)
 
 ### Tech Stack
 
