@@ -14,17 +14,7 @@
 
 Construo e entrego produtos completos de software: plataformas SaaS, ferramentas internas, apps mobile e desktop. Trabalho com clientes reais que pagam de verdade, usando desenvolvimento com IA pra entregar em dias o que levaria meses.
 
-**50+ projetos entregues · 5 plataformas em produção · web, mobile e desktop.**
-
-### Projetos em destaque
-
-| Projeto | O que é | Stack | Destaques |
-|---------|---------|-------|-----------|
-| [**Ginte Orçamentos**](https://github.com/Ginte-ERP-Company/Ginte-Orcamentos) | SaaS B2B multi-tenant de orçamentos e cobranças | Next.js 16 · Prisma · Supabase · Asaas | Permissões ABAC via JSON, webhooks de pagamento, sistema de impersonation |
-| [**Casa Imperial Hub**](https://github.com/Ginte-ERP-Company/casa-imperial-hub) | Plataforma interna de reembolsos pra vendedores em marketplace | Next.js 16 · Prisma · Neon · Pusher | OAuth 2.0 Mercado Livre multi-conta, RBAC 3 níveis, atualizações em tempo real |
-| [**Hub Zinn**](https://github.com/lugomio/hub-zinn) | Plataforma de gestão de equipes com painel TV ao vivo | Next.js 16 · Prisma 7 · Better Auth · FullCalendar | Painel de produção com auto-refresh, módulo academy, timer de tarefas |
-| [**Caderno Inteligente**](https://github.com/joaomanfre3/Caderno_Inteligente) | App desktop de matemática pra estudantes de engenharia | Tauri 2 (Rust) · React · SQLite · MathLive | 9 métodos numéricos, editor visual de equações, 100% offline |
-| [**Gym Fire**](https://github.com/joaomanfre3/gymfire) | App mobile de fitness social | Expo 54 · React Native · Zustand · Reanimated | Treinos, camera drops, chat com IA, Google OAuth |
+**50+ projetos entregues · web, mobile e desktop.**
 
 ### Apps & ferramentas
 
